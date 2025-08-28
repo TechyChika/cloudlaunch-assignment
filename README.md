@@ -23,7 +23,7 @@ This project demonstrates:
 
 **Files**
 
-The sites created for this project are located in the [`sites/`](./sites)
+The sites created for this project are located in the [`site/`](./site) folder.
 
 
 ## 👤 IAM User
