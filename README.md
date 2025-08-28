@@ -23,7 +23,7 @@ This project demonstrates:
 
 **Files**
 
-Uploaded into sites/ folder:
+The sites created for this project are located in the [`sites/`](./sites)
 
 
 ## 👤 IAM User
