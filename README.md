@@ -30,7 +30,7 @@ The sites created for this project are located in the [`site/`](./site) folder.
 - **Username:** `cloudlaunch-user`  
 - **Account Alias/ID:** *396371354530*  
 - **Console URL:** *https://396371354530.signin.aws.amazon.com/console*  
-- **Credentials:** cloud-launch-access001 (with enforced password reset).  
+**Credentials:** Submitted separately (with enforced password reset).  
 
 ---
 
